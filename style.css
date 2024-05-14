@@ -10,25 +10,27 @@ h1{
     font-weight: 200px;
     margin-top: 20px;
     margin-bottom: 0px;
-    color: #e7e6f0
+/*     color: #e7e6f0 */
+    color: #000000
 }
 
-h1.gradient{
+/* h1.gradient{
     background: -webkit-linear-gradient(302deg, #a239d3 3%, rgba(180, 72, 215, 1) 16%, #c557db 29%, rgba(241,72,202,1) 48%, #ce4396 74%, #df76cb 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-}
+} */
 
 h2{
     font-size: 32px;
     font-family: Arial, Helvetica, sans-serif;
-    color: #c6c5d4;
+/*     color: #c6c5d4; */
+    color: #0000FF
 }
 
-footer p{
+/* footer p{
     color: #8b8b94 !important;
     text-align: center;
-}
+} */
 
 p{
     font-size: 20px;
